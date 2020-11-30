@@ -263,6 +263,36 @@
         "h": 58,
         "w": 245,
         "title": "JSON Schema"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1280px-LaTeX_logo.svg.png",
+        "h": 58,
+        "w": 139,
+        "title": "LaTeX"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/9/92/Yaml_logo.png",
+        "h": 58,
+        "w": 58,
+        "title": "YAML"
+    },
+    {
+        "data": "https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png",
+        "h": 58,
+        "w": 58,
+        "title": "Docker"
+    },
+    {
+        "data": "https://lh3.googleusercontent.com/proxy/FwTP3waMBOa3rXyyVt-P5zCF-_gtZFzFCA7-EaWMqWuN1TpLZ1JVIiBis54OGbTtXwvCNj3JAv0b8-2jv4k4",
+        "h": 58,
+        "w": 78,
+        "title": "GeoPackage"
+    },
+    {
+        "data": "https://www.unidata.ucar.edu/images/logos/netcdf-150x150.png",
+        "h": 58,
+        "w": 58,
+        "title": "netCDF"
     }
 
 ]    
