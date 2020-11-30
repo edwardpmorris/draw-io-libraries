@@ -133,9 +133,9 @@
         "title": "ArcGIS"
     },
     {
-        "data": "https://www.cogeo.org/images/logo/Cog-02.png",
+        "data": "https://www.eclipse.org/community/eclipse_newsletter/2018/december/images/cog.png",
         "h": 58,
-        "w": 81,
+        "w": 116,
         "title": "COGs"
     },
     {
@@ -293,6 +293,18 @@
         "h": 58,
         "w": 58,
         "title": "netCDF"
+    },
+    {
+        "data": "https://pbs.twimg.com/profile_images/1126734111/geojsonicon_400x400.png",
+        "h": 58,
+        "w": 58,
+        "title": "GeoJSON"
+    },
+    {
+        "data": "https://miro.medium.com/max/480/0*VvfbnTNblRIemaWw.png",
+        "h": 58,
+        "w": 58,
+        "title": "MBTILES"
     }
 
 ]    
