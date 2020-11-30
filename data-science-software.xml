@@ -1,0 +1,209 @@
+<mxlibrary>
+[
+    {
+        "data": "https://logodownload.org/wp-content/uploads/2019/10/python-logo.png",
+        "h": 58,
+        "w": 58,
+        "title": "Python"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png",
+        "h": 58,
+        "w": 58,
+        "title": "R"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg",
+        "h": 58,
+        "w": 141,
+        "title": "SAS"
+    },
+    {
+        "data": "https://cdn.freebiesupply.com/logos/large/2x/spss-1-logo-png-transparent.png",
+        "h": 58,
+        "w": 58,
+        "title": "SPSS"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png",
+        "h": 58,
+        "w": 58,
+        "title": "C++"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1280px-Julia_Programming_Language_Logo.svg.png",
+        "h": 58,
+        "w": 90,
+        "title": "Julia"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png",
+        "h": 58,
+        "w": 58,
+        "title": "PostgreSQL"
+    },
+    {
+        "data": "https://miro.medium.com/max/1000/0*Q1ag-y82OwwBa6uR.jpg",
+        "h": 58,
+        "w": 58,
+        "title": "Mapbox"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/CARTO-logo.svg/1280px-CARTO-logo.svg.png",
+        "h": 58,
+        "w": 148,
+        "title": "Carto"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png",
+        "h": 58,
+        "w": 58,
+        "title": "Juypter"
+    },
+    {
+        "data": "https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png",
+        "h": 58,
+        "w": 165,
+        "title": "Rstudio"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png",
+        "h": 58,
+        "w": 58,
+        "title": "VSCode"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/1024px-QGIS_logo%2C_2017.svg.png",
+        "h": 58,
+        "w": 194,
+        "title": "QGIS"
+    },
+    {
+        "data": "https://vignette.wikia.nocookie.net/computerscience/images/c/ce/Javascript_logo_unofficial-300x300.png/revision/latest?cb=20140903193524",
+        "h": 58,
+        "w": 58,
+        "title": "Javascript"
+    },
+    {
+        "data": "https://colab.research.google.com/img/colab_favicon_256px.png",
+        "h": 58,
+        "w": 58,
+        "title": "Colab"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1280px-Gnu-bash-logo.svg.png",
+        "h": 58,
+        "w": 138,
+        "title": "Bash"
+    },
+    {
+        "data": "https://i.pinimg.com/originals/d4/af/4c/d4af4c3163d48f3ed98a95302a49ca4d.png",
+        "h": 58,
+        "w": 58,
+        "title": "SQL"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png",
+        "h": 58,
+        "w": 58,
+        "title": "Typescript"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg",
+        "h": 58,
+        "w": 154,
+        "title": "Ruby on Rails"
+    },
+    {
+        "data": "https://2018.igem.org/wiki/images/d/d1/T--TecCEM--Sponsors5.png",
+        "h": 58,
+        "w": 58,
+        "title": "Matlab"
+    },
+    {
+        "data": "https://earthengine.google.com/static/images/earth-engine-logo.png",
+        "h": 58,
+        "w": 58,
+        "title": "Google earth engine"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/600px-ArcGIS_logo.png",
+        "h": 58,
+        "w": 58,
+        "title": "ArcGIS"
+    },
+    {
+        "data": "https://www.cogeo.org/images/logo/Cog-02.png",
+        "h": 58,
+        "w": 81,
+        "title": "COGs"
+    },
+    {
+        "data": "https://www.gruntimaps.com/wp-content/uploads/2018/10/logo-mapbox-tippecanoe@2x.png",
+        "h": 58,
+        "w": 116,
+        "title": "Tippecanoe"
+    },
+    {
+        "data": "https://geopandas.readthedocs.io/en/latest/_images/geopandas_logo.png",
+        "h": 58,
+        "w": 187,
+        "title": "Geopandas"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/d/df/GDALLogoColor.svg",
+        "h": 58,
+        "w": 58,
+        "title": "GDAL"
+    },
+    {
+        "data": "https://www.osgeo.org/wp-content/uploads/GeoTrellis.png",
+        "h": 58,
+        "w": 104,
+        "title": "GeoTrellis"
+    },
+    {
+        "data": "https://branding.azavea.com/images/logo-rasterfoundry.png",
+        "h": 58,
+        "w": 173,
+        "title": "Raster Foundry"
+    },
+    {
+        "data": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt987f36e6cf17bc9a/5ea8c7fba7bdee51f48010f7/brand-elastic-vertical-220x130.svg",
+        "h": 58,
+        "w": 98,
+        "title": "Elasticsearch"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png",
+        "h": 58,
+        "w": 94,
+        "title": "Markdown"
+    },
+    {
+        "data": "https://numfocus.org/wp-content/uploads/2018/09/xarray-logo-square.png",
+        "h": 58,
+        "w": 58,
+        "title": "Xarray"
+    },
+    {
+        "data": "https://user-images.githubusercontent.com/31272931/46485114-f4ed3700-c7f2-11e8-873b-09aca7c2efab.png",
+        "h": 58,
+        "w": 58,
+        "title": "Zarr"
+    },
+    {
+        "data": "https://dask.org/_images/dask_horizontal_white_no_pad_dark_bg.png",
+        "h": 58,
+        "w": 142,
+        "title": "Dask"
+    },
+    {
+        "data": "https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png",
+        "h": 58,
+        "w": 58,
+        "title": "NumPy"
+    }
+
+]    
+</mxlibrary>
