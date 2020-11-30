@@ -221,6 +221,48 @@
         "h": 58,
         "w": 58,
         "title": "Go"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png",
+        "h": 58,
+        "w": 58,
+        "title": "NodeJS"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/9/95/Zotero_icon.png",
+        "h": 58,
+        "w": 58,
+        "title": "Zotero"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png",
+        "h": 58,
+        "w": 103,
+        "title": "TensorFlow"
+    },
+    {
+        "data": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png",
+        "h": 58,
+        "w": 290,
+        "title": "PyTorch"
+    },
+    {
+        "data": "https://v-xiong.github.io/JSONLogo.png",
+        "h": 58,
+        "w": 58,
+        "title": "JSON"
+    },
+    {
+        "data": "https://json-ld.org/images/json-ld-logo.png",
+        "h": 58,
+        "w": 58,
+        "title": "JSON-LD"
+    },
+    {
+        "data": "https://miro.medium.com/max/880/1*rWXSzdfEjzdR-P-OQreRcw.png",
+        "h": 58,
+        "w": 245,
+        "title": "JSON Schema"
     }
 
 ]    
