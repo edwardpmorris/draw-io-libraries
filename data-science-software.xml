@@ -305,6 +305,18 @@
         "h": 58,
         "w": 58,
         "title": "MBTILES"
+    },
+    {
+        "data": "https://miro.medium.com/max/480/0*VvfbnTNblRIemaWw.png",
+        "h": 58,
+        "w": 58,
+        "title": "XClim"
+    },
+    {
+        "data": "http://qatestingtools.com/sites/default/files/tools_shortcuts/Postman%20150.png",
+        "h": 58,
+        "w": 58,
+        "title": "Postman"
     }
 
 ]    
